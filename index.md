@@ -30,7 +30,7 @@ I am a second year Ph.D student at the University of Massachusetts Boston. My re
 - Montclair State University, Montclair NJ                 Sept 2017 - May 2021
   - B.S. in Computer Science
 
-[CV]: ./main/Allen_Yang_CV_Feb_3_23.pdf
+[CV]: ../main/Allen_Yang_CV_Feb_3_23.pdf
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
