@@ -29,8 +29,8 @@ I am a second year Ph.D student at the University of Massachusetts Boston. My re
   - Ph.D in Computer Science
 - Montclair State University, Montclair NJ                 Sept 2017 - May 2021
   - B.S. in Computer Science
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-[CV]: 
+
+[CV]: /main/Allen_Yang_CV_Feb_3_23.pdf
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
