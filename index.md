@@ -19,7 +19,7 @@ I am a second year Ph.D student at the University of Massachusetts Boston. My re
 ## Publications
 
 - DIRS: Dynamic Initial Rate Setting in Congestion Control for Disaggregated Storage Systems
-_Xiaoqian Zhang, Allen Yang, Danlin Jia, Li Wang, Mahsa Bayati, Pradeep Subedi, Xuebin Yao, Bo Sheng and Ningfang Mi_ 
+\_Xiaoqian Zhang, Allen Yang, Danlin Jia, Li Wang, Mahsa Bayati, Pradeep Subedi, Xuebin Yao, Bo Sheng and Ningfang Mi_ 
 
 
 [CV]: ../Allen_Yang_CV_Feb_3_23.pdf
