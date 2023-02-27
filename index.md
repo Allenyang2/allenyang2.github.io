@@ -19,6 +19,8 @@ Other than that, you're free to customize sites that you create with this templa
 To get started with creating a site, just click "[use this template]"!
 
 ----
+## Heading 2
+About Me
 
 I am a second year Ph.D student at the University of Massachusetts Boston. My research interests lie in Federated/Machine learning, edge computing, mobile computing, security, computer networks, cloud computing, and storage systems.
 
