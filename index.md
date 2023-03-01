@@ -14,9 +14,9 @@ I am a second year Ph.D student at the University of Massachusetts Boston. My re
 
 ## Education
 
-- University of Massachusetts Boston, Boston MA            August 2021 - Current
+- University of Massachusetts-Boston, Boston, MA            August 2021 - Current
   - Ph.D in Computer Science
-- Montclair State University, Montclair NJ                 Sept 2017 - May 2021
+- Montclair State University, Montclair, NJ                 Sept 2017 - May 2021
   - B.S. in Computer Science
 
 ----
