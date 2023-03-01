@@ -26,5 +26,5 @@ I am a second year Ph.D student at the University of Massachusetts Boston. My re
 
 
 
-[CV]: ../assets/Allen_Yang_CV_Feb_3_23.pdf
+[CV]: ../../assets/Allen_Yang_CV_Feb_3_23.pdf
 
