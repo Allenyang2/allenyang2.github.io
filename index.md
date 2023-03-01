@@ -26,7 +26,7 @@ I am a second year Ph.D student at the University of Massachusetts Boston. My re
 - **Optimizing Internal Overlaps by Self‑Adjusting Resource Allocation in Multi‑Stage Computing Systems**<br>
    <sub>_Allen Yang, Jiayin Wang, Ying Mao, Yi Yao, Ningfang Mi, and Bo Sheng, IEEE Access, 2021 Vol. 9, pp. 88805‑88819_<sub><br>
 - **DeepICU: Imbalanced Classification by Using Deep Neural Networks for Network Intrusion Detection**<br> 
-     <sub> -Allen Yang, Boxiang Dong, Dawei Li, Weifeng Sun, and Bharath K. Samanthula, International Journal of Big Data Intelligence, 2020, Vol. 7 No.3, pp.137‑147_ <br>
+     <sub> Allen Yang, Boxiang Dong, Dawei Li, Weifeng Sun, and Bharath K. Samanthula, International Journal of Big Data Intelligence, 2020, Vol. 7 No.3, pp.137‑147_ <br>
 
 
 
