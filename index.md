@@ -3,6 +3,9 @@ title: Home
 layout: home
 ---
 
+<p align="right">
+  <img src="/assets/1619208044553.jpg" width="175" title="hover text">
+</p>
 
 ## About Me
 
