@@ -6,14 +6,12 @@ layout: home
 
 ## About Me
 
-![Screenshot](/assets/1619208044553.jpg)
-
-<p align="center">
-  <img src="/assets/1619208044553.jpg" width="350" title="hover text">
-  
-</p>
 
 I am a second year Ph.D student at the University of Massachusetts Boston. My research interests lie in Federated/Machine learning, edge computing, mobile computing, security, computer networks, cloud computing, and storage systems. You can find my [CV] here  <sub>_updated (02/23)_<sub>
+<p align="left">
+  <img src="/assets/1619208044553.jpg" width="175" title="hover text">
+  
+</p>
 
 ----
 
