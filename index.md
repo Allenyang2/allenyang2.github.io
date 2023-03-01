@@ -21,11 +21,11 @@ I am a second year Ph.D student at the University of Massachusetts Boston. My re
 ## Publications
 - **SRC: Mitigate I/O Throughput Degradation in Network Congestion Control of Disaggregated Storage Systems**<br>
 <sub>_Danlin Jia, Yiming Xie, Li Wang, Xiaoqian Zhang, Allen Yang, Xuebin Yao, Mahsa Bayati, Pradeep Subedi, Bo Sheng, and Ningfang Mi, 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS'23), May 2023_<sub>
-- **DIRS: Dynamic Initial Rate Setting in Congestion Control for Disaggregated Storage Systems**<br>
+- **DIRS: Dynamic Initial Rate Setting in Congestion Control for Disaggregated Storage Systems** <br>
  <sub>_Xiaoqian Zhang, Allen Yang, Danlin Jia, Li Wang, Mahsa Bayati, Pradeep Subedi, Xuebin Yao, Bo Sheng and Ningfang Mi , International Conference on Computing, Networking and Communications (ICNC'23), Feb. 2023_ <sub> <br>
-- **Optimizing Internal Overlaps by Self‑Adjusting Resource Allocation in Multi‑Stage Computing Systems**<br>
-   <sub>_Allen Yang, Jiayin Wang, Ying Mao, Yi Yao, Ningfang Mi, and Bo Sheng, IEEE Access, 2021_<sub><br>
-- **DeepICU: Imbalanced Classification by Using Deep Neural Networks for Network Intrusion Detection**<br> 
+- **Optimizing Internal Overlaps by Self‑Adjusting Resource Allocation in Multi‑Stage Computing Systems** <br>
+   <sub>_Allen Yang, Jiayin Wang, Ying Mao, Yi Yao, Ningfang Mi, and Bo Sheng, IEEE Access, 2021_<sub> <br>
+- **DeepICU: Imbalanced Classification by Using Deep Neural Networks for Network Intrusion Detection** <br> 
      <sub> _Allen Yang, Boxiang Dong, Dawei Li, Weifeng Sun, and Bharath K. Samanthula, International Journal of Big Data Intelligence, 2020_ <br>
 
 
